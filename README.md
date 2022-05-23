@@ -10,6 +10,6 @@ To view the DAG created in the project, access http://localhost:8080/ and view t
 
 To view the data entered in the table, access PgAdmin http://localhost:15432/ and register the connection by inserting the host, username and password according to the postgres configuration in docker-compose.yml file.
 
-##Obs
+#Obs
 
 To run this repository it is necessary to have docker and docker compose installed on your machine.
