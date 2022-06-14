@@ -1,4 +1,4 @@
-CREATE DATABASE raizen_analytics;
+CREATE DATABASE analytics;
 
 CREATE TABLE IF NOT EXISTS sales_of_oil_derivative_fuels (
         combustivel	varchar,
